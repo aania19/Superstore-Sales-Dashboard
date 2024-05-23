@@ -19,3 +19,8 @@ Load the CSV Data into the Power BI. Perform transform to remove duplicates, err
 Cluster Bar Chart, Area Chart, Map, Donut Chart, Slicers, KPIs Card, and Line chart for forecasting.
 
 # Screenshots
+![1st](https://github.com/aania19/Superstore-Sales-Dashboard/assets/170446058/a7d9d4f8-be55-4f37-8781-b3fe114450bf)
+![2nd](https://github.com/aania19/Superstore-Sales-Dashboard/assets/170446058/bdc56ad4-19a6-4ffd-9964-df64a6f13fd0)
+
+
+
